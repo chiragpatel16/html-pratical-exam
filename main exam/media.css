@@ -1,0 +1,512 @@
+
+
+@media(max-width:480px)
+{
+    nav
+    {
+        width: 100%;
+    }
+    .navbar
+    {
+        height: 50px;
+        width: 100%;
+        margin: 0%;
+    }
+    .navbar h1
+    {
+        top: 10px;
+        text-align: center;
+    } 
+    .content
+    {
+        height: 50px;
+        width: 100%;
+    }
+    .content ul 
+    {
+        display: flex;
+       width: 100%;
+       flex-direction: column;
+    }
+    .content ul li a
+    {
+        text-decoration: none;
+        color: black;
+    } 
+.imagecontainer
+{
+    position: relative;
+     top: 50px;
+    height: auto;
+    width: 100%;
+    background-color: black;
+    flex-direction: column;
+   display: flex;
+   align-items: center;
+}
+.img1
+{
+    height: 200px;
+    width: 50%;
+    background-color: aqua;
+}
+.img1 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img2
+{
+    height: 200px;
+    width: 50%;
+    background-color: pink;
+}
+.img2 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img3
+{
+    height: 200px;
+    width: 50%;
+    background-color:blue;
+}
+.img3 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img4
+{
+    height: 200px;
+    width: 50%;
+    background-color: blueviolet;
+}
+.img4 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img5
+{
+    height: 200px;
+    width: 50%;
+    background-color: brown;
+}
+.img5 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img6
+{   height: 200px;
+    width: 50%;
+    background-color: yellow;
+}
+.img6 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img7
+{
+    height: 200px;
+    width: 50%;
+    background-color: green;
+}
+.img7 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img8
+{
+    height: 200px;
+    width: 50%;
+    background-color: orange;
+}
+.img8 img
+{
+    height: 200px;
+    width: 100%;
+}
+.imagecontainer2
+{
+    height: auto;
+    width: 100%;
+    background-color: black;
+     flex-direction: column;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+}
+.img5
+{
+    height: 200px;
+    width: 50%;
+    background-color: brown;
+}
+.img6
+{   height: 200px;
+    width: 50%;
+    background-color: yellow;
+}
+.img7
+{
+    height: 200px;
+    width: 50%;
+    background-color: green;
+}
+.img8
+{
+    height: 200px;
+    width: 50%;
+    background-color: orange;
+}
+}
+ 
+@media(max-width:768px)
+{
+    nav
+{
+    height: 50px;
+    width: 100%;
+}
+.navbar
+{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+.navbar h1
+{
+    text-align: center;
+}
+.content
+{
+    height: 60px;
+    width: 100%;
+}
+.content ul 
+{
+     position: relative;
+    margin-left: 300px;
+    list-style: none;
+    margin-top: 15px;
+    flex-direction: column;
+
+}
+.content ul li a
+{
+    text-decoration: none;
+    padding: 60px;
+    color: black;
+}
+.imagecontainer
+{
+    position: relative;
+     top: 50px;
+    height: auto;
+    width: 100%;
+    background-color: black;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.img1
+{
+    height: 200px;
+    width: 50%;
+    background-color: aqua;
+}
+.img1 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img2
+{
+    height: 200px;
+    width: 50%;
+    background-color: pink;
+}
+.img2 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img3
+{
+    height: 200px;
+    width: 50%;
+    background-color:blue;
+}
+.img3 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img4
+{
+    height: 200px;
+    width: 50%;
+    background-color: blueviolet;
+}
+.img4 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img5
+{
+    height: 200px;
+    width: 50%;
+    background-color: brown;
+}
+.img5 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img6
+{   height: 200px;
+    width: 50%;
+    background-color: yellow;
+}
+.img6 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img7
+{
+    height: 200px;
+    width: 50%;
+    background-color: green;
+}
+.img7 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img8
+{
+    height: 200px;
+    width: 50%;
+    background-color: orange;
+}
+.img8 img
+{
+    height: 200px;
+    width: 100%;
+}
+.imagecontainer2
+{
+    height: auto;
+    width: 100%;
+    background-color: black;
+     flex-direction: row;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.img5
+{
+    height: 200px;
+    width: 50%;
+    background-color: brown;
+}
+.img6
+{   height: 200px;
+    width: 50%;
+    background-color: yellow;
+}
+.img7
+{
+    height: 200px;
+    width: 50%;
+    background-color: green;
+}
+.img8
+{
+    height: 200px;
+    width: 50%;
+    background-color: orange;
+}
+}
+
+@media(max-width:1024px)
+{
+    nav
+{
+    height: 50px;
+    width: 100%;
+}
+.navbar
+{
+    height: 50px;
+    width: 100%;
+    position: relative;
+
+}
+.navbar h1
+{
+    position: relative;
+    top: 10px;
+    left: 90px;
+}
+.content
+{
+    height: 60px;
+    width: 100%;
+}
+.content ul 
+{
+     position: relative;
+    list-style: none;
+    margin-top: 15px;
+
+}
+.content ul li a
+{
+    text-decoration: none;
+    padding: 60px;
+    color: black;
+}
+.imagecontainer
+{
+    position: relative;
+     top: 50px;
+    height: auto;
+    width: 100%;
+    background-color: black;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.img1
+{
+    height: 200px;
+    width: 50%;
+    background-color: aqua;
+}
+.img1 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img2
+{
+    height: 200px;
+    width: 50%;
+    background-color: pink;
+}
+.img2 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img3
+{
+    height: 200px;
+    width: 50%;
+    background-color:blue;
+}
+.img3 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img4
+{
+    height: 200px;
+    width: 50%;
+    background-color: blueviolet;
+}
+.img4 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img5
+{
+    height: 200px;
+    width: 50%;
+    background-color: brown;
+}
+.img5 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img6
+{   height: 200px;
+    width: 50%;
+    background-color: yellow;
+}
+.img6 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img7
+{
+    height: 200px;
+    width: 50%;
+    background-color: green;
+}
+.img7 img
+{
+    height: 200px;
+    width: 100%;
+}
+.img8
+{
+    height: 200px;
+    width: 50%;
+    background-color: orange;
+}
+.img8 img
+{
+    height: 200px;
+    width: 100%;
+}
+.imagecontainer2
+{
+    height: auto;
+    width: 100%;
+    background-color: black;
+     flex-direction: row;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.img5
+{
+    height: 200px;
+    width: 50%;
+    background-color: brown;
+}
+.img6
+{   height: 200px;
+    width: 50%;
+    background-color: yellow;
+}
+.img7
+{
+    height: 200px;
+    width: 50%;
+    background-color: green;
+}
+.img8
+{
+    height: 200px;
+    width: 50%;
+    background-color: orange;
+}
+}

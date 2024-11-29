@@ -1,0 +1,143 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav
+{
+    width: 100%;
+}
+.navbar
+{
+    height: 50px;
+    width: 90%;
+    margin: auto;
+}
+.navbar h1
+{
+    position: relative;
+    top: 10px;
+}
+.content
+{
+    height: 50px;
+    width: 100%;
+}
+.content ul 
+{
+    display: flex;
+    list-style: none;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.content ul li a
+{
+    text-decoration: none;
+    padding: 60px;
+    color: black;
+}
+.imagecontainer
+{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img1
+{
+    height: 250px;
+    width: 20%;
+    background-color: aqua;
+}
+.img1 img
+{
+     height: 250px;
+     width: 100%;
+}
+.img2
+{
+    height: 250px;
+    width: 20%;
+    background-color: pink;
+}
+.img2 img
+{
+     height: 250px;
+     width: 100%;
+}
+.img3
+{
+    height: 250px;
+    width: 20%;
+    background-color:blue;
+}
+.img3 img
+{
+     height: 250px;
+     width: 100%;
+}
+.img4
+{
+    height: 250px;
+    width: 20%;
+    background-color: blueviolet;
+}
+.img4 img
+{
+     height: 250px;
+     width: 100%;
+}
+.imagecontainer2
+{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+.img5
+{
+    height: 250px;
+    width: 20%;
+    background-color: brown;
+}
+.img5 img
+{
+     height: 250px;
+     width: 100%;
+}
+.img6
+{
+    height: 250px;
+    width: 20%;
+    background-color: yellow;
+}
+.img6 img
+{
+     height: 250px;
+     width: 100%;
+}
+.img7
+{
+    height: 250px;
+    width: 20%;
+    background-color: green;
+}
+.img7 img
+{
+     height: 250px;
+     width: 100%;
+}
+.img8
+{
+    height: 250px;
+    width: 20%;
+    background-color: orange;
+}
+.img8 img
+{
+     height: 250px;
+     width: 100%;
+}
+
